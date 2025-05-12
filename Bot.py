@@ -13,7 +13,7 @@ from telegram.ext import (
 import yt_dlp
 
 import os
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("7661498931:AAF92h-dx1miWbkf3VWzeHRKvZMh-vjwRUI")
 
 # Fungsi download media
 def download_media(url, audio_only=False):
